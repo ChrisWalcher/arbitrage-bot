@@ -1,4 +1,4 @@
-export const UNISWAP_QUERY_ABI = [{
+export const UNISWAP_QUERY_ABI = [{ 
   "inputs": [{
     "internalType": "contract UniswapV2Factory",
     "name": "_uniswapFactory",
